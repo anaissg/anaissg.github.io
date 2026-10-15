@@ -23,4 +23,6 @@ export default defineConfig({
     host: true,
     port: 4321,
   },
+  site: 'https://anaissg.github.io',
+  // base: '/nombre-repo', //como tiene el mismo nombre se omite
 });
